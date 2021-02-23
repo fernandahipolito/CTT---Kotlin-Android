@@ -1,2 +1,2 @@
-# CTT---Kotlin-Android
+# CTT-Kotlin-Android
 Primeiros passos Kotlin-Android
